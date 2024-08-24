@@ -1,0 +1,39 @@
+.post-detail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+  
+  .post-detail h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .post-content {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+  }
+  
+  .post-actions {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .edit-btn, .back-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .edit-btn {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .back-btn {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
